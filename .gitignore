@@ -41,3 +41,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# vim
+.*.swo
+.*.swp
+*~
+
+# Altium
+pcb/Project Logs for scanline
+pcb/History
+pcb/__Previews
